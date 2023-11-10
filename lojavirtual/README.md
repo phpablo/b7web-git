@@ -1,2 +1,2 @@
 ### Loja Virtual
-- Alteração no repositório local!
+- Alteração no repositório no local
